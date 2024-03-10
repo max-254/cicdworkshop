@@ -6,6 +6,8 @@ Full workshop video available here: https://www.youtube.com/watch?v=OcNzurpCCpY
 
 Presentation video available here: https://www.youtube.com/watch?v=8HPpdv8crHo
 
+Date: March 10th, 2024
+
 ## Exercises
 
 ### Exercise 1
